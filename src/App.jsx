@@ -5,8 +5,8 @@ import About from "./pages/About";
 import Awareness from "./pages/Awaerness";
 import Matryrs from "./pages/Matryrs";
 import MartyrsDetails from "./pages/MartyrsDetails";
-import NotFound from "./pages/NOtFound";
 import StoryPage from "./pages/Story";
+import NotFound from './pages/NotFound';
 
 export default function App() {
   const router = createBrowserRouter([
